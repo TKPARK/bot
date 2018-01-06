@@ -24,6 +24,6 @@ class Poll(models.Model):
 
 
 class Choice(models.Model):
-    poll = models.ForeignKey(Poll)
-    candidate = models.ForeignKey(Candidate)
+    poll = models.ForeignKey(Poll, on_delete=models.CASCADE)
+    candidate = models.ForeignKey(Candidate, on_delete=models.CASCADE)
     votes = models.IntegerField(default=0)
