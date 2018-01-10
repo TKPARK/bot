@@ -1,0 +1,162 @@
+[
+	{
+		"TEAM_ID": "1001",
+		"TEAM_NAME": "A.F.C. Bournemouth",
+		"TEAM_NAME_KR": "AFC 본머스",
+		"NATION": "EPL",
+		"STADIUM": "Vitality Stadium",
+		"STADIUM_KR": "바이탈리티 스타디움"
+	},
+	{
+		"TEAM_ID": "1002",
+		"TEAM_NAME": "Arsenal F.C.",
+		"TEAM_NAME_KR": "아스날 FC",
+		"NATION": "EPL",
+		"STADIUM": "Emirates Stadium",
+		"STADIUM_KR": "에미레이트 스타디움"
+	},
+	{
+		"TEAM_ID": "1003",
+		"TEAM_NAME": "Brighton & Hove Albion F.C.",
+		"TEAM_NAME_KR": "브라이튼 앤 호브 알비온 FC",
+		"NATION": "EPL",
+		"STADIUM": "American Express Community Stadium",
+		"STADIUM_KR": "아메리칸 익스프레스 커뮤니티 스타디움"
+	},
+	{
+		"TEAM_ID": "1004",
+		"TEAM_NAME": "Burnley F.C.",
+		"TEAM_NAME_KR": "번리 FC",
+		"NATION": "EPL",
+		"STADIUM": "Turf Moor",
+		"STADIUM_KR": "터프 무어"
+	},
+	{
+		"TEAM_ID": "1005",
+		"TEAM_NAME": "Chelsea F.C.",
+		"TEAM_NAME_KR": "첼시 FC",
+		"NATION": "EPL",
+		"STADIUM": "Stamford Bridge",
+		"STADIUM_KR": "스탬퍼드 브리지"
+	},
+	{
+		"TEAM_ID": "1006",
+		"TEAM_NAME": "Crystal Palace F.C.",
+		"TEAM_NAME_KR": "크리스탈 팰리스 FC",
+		"NATION": "EPL",
+		"STADIUM": "Selhurst Park",
+		"STADIUM_KR": "셀허스트 파크"
+	},
+	{
+		"TEAM_ID": "1007",
+		"TEAM_NAME": "Everton F.C.",
+		"TEAM_NAME_KR": "에버튼 FC",
+		"NATION": "EPL",
+		"STADIUM": "Goodison Park",
+		"STADIUM_KR": "구디슨 파크"
+	},
+	{
+		"TEAM_ID": "1008",
+		"TEAM_NAME": "Huddersfield Town A.F.C.",
+		"TEAM_NAME_KR": "허더즈필드 타운 AFC",
+		"NATION": "EPL",
+		"STADIUM": "John Smith's Stadium",
+		"STADIUM_KR": "존 스미스 스타디움"
+	},
+	{
+		"TEAM_ID": "1009",
+		"TEAM_NAME": "Leicester City F.C.",
+		"TEAM_NAME_KR": "레스터 시티 FC",
+		"NATION": "EPL",
+		"STADIUM": "King Power Stadium",
+		"STADIUM_KR": "킹 파워 스타디움"
+	},
+	{
+		"TEAM_ID": "1010",
+		"TEAM_NAME": "Liverpool F.C.",
+		"TEAM_NAME_KR": "리버풀 FC",
+		"NATION": "EPL",
+		"STADIUM": "Anfield",
+		"STADIUM_KR": "안필드"
+	},
+	{
+		"TEAM_ID": "1011",
+		"TEAM_NAME": "Manchester City F.C.",
+		"TEAM_NAME_KR": "맨체스터 시티 FC",
+		"NATION": "EPL",
+		"STADIUM": "Etihad Stadium",
+		"STADIUM_KR": "에티하드 스타디움"
+	},
+	{
+		"TEAM_ID": "1012",
+		"TEAM_NAME": "Manchester United F.C.",
+		"TEAM_NAME_KR": "맨체스터 유나이티드 FC",
+		"NATION": "EPL",
+		"STADIUM": "Old Trafford",
+		"STADIUM_KR": "올드 트래포드"
+	},
+	{
+		"TEAM_ID": "1013",
+		"TEAM_NAME": "Newcastle United F.C.",
+		"TEAM_NAME_KR": "뉴캐슬 유나이티드 FC",
+		"NATION": "EPL",
+		"STADIUM": "St James' Park",
+		"STADIUM_KR": "세인트 제임스 파크"
+	},
+	{
+		"TEAM_ID": "1014",
+		"TEAM_NAME": "Southampton F.C.",
+		"TEAM_NAME_KR": "사우스햄튼 FC",
+		"NATION": "EPL",
+		"STADIUM": "St. Mary's Stadium",
+		"STADIUM_KR": "세인트 메리즈 스타디"
+	},
+	{
+		"TEAM_ID": "1015",
+		"TEAM_NAME": "Stoke City F.C.",
+		"TEAM_NAME_KR": "스토크 시티 FC",
+		"NATION": "EPL",
+		"STADIUM": "bet365 Stadium",
+		"STADIUM_KR": "bet365 스타디움"
+	},
+	{
+		"TEAM_ID": "1016",
+		"TEAM_NAME": "Swansea City A.F.C.",
+		"TEAM_NAME_KR": "스완지 시티 AFC",
+		"NATION": "EPL",
+		"STADIUM": "Liberty Stadium",
+		"STADIUM_KR": "리버티 스타디움"
+	},
+	{
+		"TEAM_ID": "1017",
+		"TEAM_NAME": "Tottenham Hotspur F.C.",
+		"TEAM_NAME_KR": "토트넘 핫스퍼 FC",
+		"NATION": "EPL",
+		"STADIUM": "Wembley Stadium",
+		"STADIUM_KR": "웸블리 스타디움"
+	},
+	{
+		"TEAM_ID": "1018",
+		"TEAM_NAME": "Watford F.C.",
+		"TEAM_NAME_KR": "왓포드 FC",
+		"NATION": "EPL",
+		"STADIUM": "Vicarage Road",
+		"STADIUM_KR": "비커리지 로드"
+	},
+	{
+		"TEAM_ID": "1019",
+		"TEAM_NAME": "West Bromwich Albion F.C.",
+		"TEAM_NAME_KR": "웨스트 브롬위치 알비온 FC",
+		"NATION": "EPL",
+		"STADIUM": "The Hawthorns",
+		"STADIUM_KR": "더 호손스"
+	},
+	{
+		"TEAM_ID": "1020",
+		"TEAM_NAME": "West Ham United F.C.",
+		"TEAM_NAME_KR": "웨스트햄 유나이티드 FC",
+		"NATION": "EPL",
+		"STADIUM": "London Stadium",
+		"STADIUM_KR": "런던 스타디움"
+	}
+]

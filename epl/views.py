@@ -1,10 +1,30 @@
 from django.shortcuts import render
+from django.core import serializers
+from epl.models import Team
+import json
 
 # Create your views here.
 
 def index(request):
-    new_title = 'EPL 프리뷰 뉴스입니다.'
-    content = '맨유 VS 맨시티'
+    # load
+    # create_team()
     
-    context = {'new_title': new_title, 'content':content}
+    # select
+    teams = Team.objects.filter(nation = 'EPL')
+    
+    context = {'content': serializers.serialize('json', teams)}
     return render(request, 'epl/index.html', context)
+
+def create_team():
+    Team.objects.all().delete()
+
+    json_data = open('epl/static/data/epl_teams.json', 'r', encoding='UTF8')
+    teams = json.load(json_data)
+    
+    for team in teams:
+        print(team['TEAM_NAME'])
+        t = Team(team_name=team['TEAM_NAME'], team_name_kr=team['TEAM_NAME_KR'], nation=team['NATION'], stadium=team['STADIUM'], stadium_kr=team['STADIUM_KR'])
+        t.save()
+    
+    json_data.close()
+    
