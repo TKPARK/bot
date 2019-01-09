@@ -15,6 +15,10 @@ def index(request):
     context = {'content': serializers.serialize('json', teams)}
     return render(request, 'epl/index.html', context)
 
+def examples(request):
+    context = {'content': serializers.serialize('json', '')}
+    return render(request, 'epl/examples.html', context)
+
 def create_team():
     Team.objects.all().delete()
 
